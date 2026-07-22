@@ -1,0 +1,15 @@
+AERATION BLOWER B-201
+Planned maintenance and abnormal-vibration procedure | Revision 3.7
+
+Blower B-201 is a positive-displacement aeration blower serving Basin 2. It is driven by a 75 kW variable-speed motor through a flexible coupling. Maintain discharge air temperature below 115 C, inlet filter differential pressure below 2.5 kPa, and overall vibration below 5.0 mm/s RMS.
+
+Before maintenance, place the standby blower in service where process demand permits. Stop B-201, isolate electrical energy, close the discharge isolation valve, and wait for pressure to vent through the approved silencer path. Do not remove the inlet filter cover while the machine is rotating or while the inlet is under vacuum.
+
+Inlet filter service
+Inspect the filter at least monthly and after any dust event. Record inlet differential pressure before removal. Clean or replace when differential pressure exceeds 2.0 kPa. When fitting a new element, ensure the gasket seats evenly around the full circumference and the cover clamps are tightened alternately. An unevenly seated element can bypass unfiltered air or restrict one side of the inlet.
+
+Vibration investigation
+If vibration rises after filter service, compare readings at the motor drive-end, motor non-drive-end, and blower bearings before adjusting speed. Check that the coupling guard and baseplate fasteners are secure. Inspect for a displaced filter gasket, a loose guard, or a cable touching the vibration sensor. A tonal vibration paired with rising inlet differential pressure usually warrants a filter and inlet inspection before variable-speed drive changes are made.
+
+Restart
+Start at the minimum approved speed. Confirm inlet differential pressure, discharge temperature, motor current, and vibration after five minutes, then at the normal process speed. Record readings in the maintenance system. Escalate if vibration exceeds 5.0 mm/s RMS, discharge temperature rises above 115 C, or a rubbing noise persists after the inlet condition has been corrected.

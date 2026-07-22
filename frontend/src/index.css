@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * { box-sizing: border-box; }
+  body { @apply m-0 min-w-[320px] bg-canvas font-sans text-ink antialiased; }
+  button, input, textarea { font: inherit; }
+  button { @apply transition-colors duration-150; }
+}
+
+@layer components {
+  .panel { @apply rounded-xl border border-slate-200 bg-white shadow-panel; }
+  .label { @apply mb-2 block text-xs font-semibold uppercase tracking-[0.12em] text-slate-500; }
+  .field { @apply w-full rounded-lg border border-slate-300 bg-white px-3.5 py-3 text-[15px] leading-6 text-ink outline-none placeholder:text-slate-400 focus:border-amber focus:ring-2 focus:ring-amber/15; }
+  .primary-button { @apply inline-flex items-center justify-center rounded-lg bg-ink px-4 py-2.5 text-sm font-semibold text-white hover:bg-slate-700 disabled:cursor-not-allowed disabled:opacity-50; }
+  .quiet-button { @apply inline-flex items-center justify-center rounded-lg border border-slate-300 bg-white px-4 py-2.5 text-sm font-semibold text-ink hover:bg-slate-50 disabled:cursor-not-allowed disabled:opacity-50; }
+}

@@ -1,0 +1,21 @@
+# Secrets and local environments
+.env
+backend/.env
+.venv/
+backend/.venv/
+
+# Runtime knowledge-base data
+backend/data/
+backend/chroma/
+backend/uploads/
+
+# Frontend output
+frontend/node_modules/
+frontend/dist/
+
+# Tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.DS_Store

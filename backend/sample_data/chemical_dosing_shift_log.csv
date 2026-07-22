@@ -1,0 +1,9 @@
+timestamp,area,equipment_tag,observation,action_taken,result,operator
+2026-06-08 06:10,Coagulation,Chemical Dosing Skid D-310,Alum day tank level fell faster than calculated demand,Verified stroke counter and checked transfer hose,Found loose hose clamp and corrected it,Elena R.
+2026-06-08 09:25,Coagulation,Chemical Dosing Skid D-310,Residual turbidity increased to 1.8 NTU after rain event,Reviewed jar test target and increased dose in 2 percent steps,Residual turbidity returned to 0.7 NTU after 25 minutes,Elena R.
+2026-06-08 13:40,Coagulation,Chemical Dosing Skid D-310,Pulsation dampener pressure below setpoint,Isolated pump and recharged dampener to procedure value,Stroke indication stabilized,Arun S.
+2026-06-09 05:55,Filter Gallery,Backwash Valve V-412,Valve travel time increased from 14 to 22 seconds,Checked actuator air pressure and drained condensate bowl,Travel time reduced to 15 seconds,Arun S.
+2026-06-09 11:20,Coagulation,Chemical Dosing Skid D-310,Polymer pump output appeared intermittent,Inspected suction foot valve and primed line,Removed gelled polymer from foot valve screen,Meera K.
+2026-06-09 18:15,Filter Gallery,Backwash Valve V-412,No position feedback at control room,Checked local limit switch enclosure,Reseated terminal connector and confirmed feedback,Meera K.
+2026-06-10 07:05,Coagulation,Chemical Dosing Skid D-310,High discharge pressure alarm on alum pump,Compared line pressure before and after injection quill,Flushed partially blocked injection quill and alarm cleared,Elena R.
+2026-06-10 14:30,Coagulation,Chemical Dosing Skid D-310,Day tank mixer vibration noted during refill,Checked mixer shaft coupling and mounting bolts,Tightened two mounting bolts and logged follow-up inspection,Arun S.

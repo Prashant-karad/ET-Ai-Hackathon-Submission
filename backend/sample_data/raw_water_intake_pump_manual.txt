@@ -1,0 +1,27 @@
+RAW WATER INTAKE PUMP P-101
+Operating and first-line maintenance guide | Revision 4.2
+
+Purpose
+Pump P-101 transfers screened raw water from the river intake wet well to the treatment plant pre-treatment header. It is a horizontal end-suction centrifugal pump driven by a 55 kW variable-speed motor. Normal operation is one duty pump with P-102 available as standby.
+
+Normal operating envelope
+Maintain discharge flow between 145 and 185 m3/h. Normal suction pressure is -8 to -18 kPa gauge and normal discharge pressure is 290 to 340 kPa gauge. At stable flow, bearing temperature should remain below 78 C and vibration should remain below 4.5 mm/s RMS. Do not operate below 115 m3/h for more than 10 minutes because internal recirculation can overheat the casing.
+
+Pre-start checks
+1. Confirm the wet-well level is above the low-level permissive and the intake screen rake is available.
+2. Verify the suction isolation valve is fully open and the discharge valve is open to its marked start position.
+3. Check strainer differential pressure. Clean the strainer when differential pressure is above 18 kPa; do not wait for the 25 kPa alarm.
+4. Inspect the suction flange, drain plug, and mechanical seal area for air leaks or wetness. A small suction-side leak may admit air without producing a visible water leak.
+5. Confirm the casing is full and vented. The pump must be primed after maintenance, extended standby, or any loss of wet-well level.
+
+Start and monitoring
+Start at the approved minimum speed. Confirm discharge pressure rises within 20 seconds, then increase speed slowly until the flow setpoint is reached. Record suction pressure, discharge pressure, motor current, bearing temperature, and vibration after five minutes. A crackling or gravel-like sound in the casing, fluctuating discharge pressure, and erratic motor current indicate probable cavitation. Do not correct suspected cavitation by immediately increasing speed.
+
+Low-flow response
+For repeated low-flow alarms, first compare the current suction pressure and strainer differential pressure with the last stable operator log. Inspect the intake screen condition and wet-well level. If strainer differential pressure is elevated, isolate according to the lockout procedure, clean the basket, reinstall the cover gasket evenly, prime the casing, and restart. If differential pressure is normal but suction pressure fluctuates, inspect the suction flange gasket and vent fittings for air ingress before changing the speed setpoint.
+
+Routine maintenance
+Weekly: inspect for seal leakage, abnormal sound, loose fasteners, and vibration trend changes. Monthly: inspect the coupling guard and baseplate bolts, and compare vibration at drive-end and non-drive-end bearings. Quarterly: clean the suction strainer during a planned rotation and inspect the basket for deformation. A deformed basket can bypass debris even when the differential reading appears normal.
+
+Safety note
+Before opening the strainer or any suction connection, isolate the pump, confirm the discharge check valve has seated, lock out the motor, and relieve trapped pressure. Follow site confined-space rules for wet-well work.
